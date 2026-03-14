@@ -1,7 +1,7 @@
 # Amazon Prime Video Data Analysis using Power BI
 
 ![Project Banner](Images/prime_video_logo.png "Project Banner")
-![Screenshot](Images/dashboard_screenshot.png "Analysis Screenshot")
+
 
 ## Project Overview
 
